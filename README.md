@@ -11,6 +11,7 @@
 </p>
 
 ---
+<img width="653" height="460" alt="Screenshot 2026-07-16 231046" src="https://github.com/user-attachments/assets/9c5e0886-e2b4-4935-b38b-9f925a915d06" />
 
 # ⚠️ Educational Use Disclaimer
 
